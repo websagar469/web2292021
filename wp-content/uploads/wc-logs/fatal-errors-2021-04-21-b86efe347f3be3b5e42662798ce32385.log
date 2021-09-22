@@ -1,0 +1,4 @@
+2021-04-21T04:48:13+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 20480 bytes) in E:\xampp\htdocs\demo\wp-content\plugins\essential-addons-for-elementor-lite\includes\Extensions\Table_of_Content.php on line 776
+
+2021-04-21T11:22:11+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in E:\xampp\htdocs\demo\wp-content\plugins\saasland-core\widgets\Appart_parallax_hero.php on line 11
+

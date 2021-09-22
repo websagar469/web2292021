@@ -1,0 +1,2 @@
+2021-04-22T05:02:33+00:00 CRITICAL Out of memory (allocated 71303168) (tried to allocate 32768 bytes) in E:\xampp\htdocs\demo\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\attribute-filter.asset.php on line 1
+

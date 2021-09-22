@@ -1,0 +1,4 @@
+2021-04-22T11:21:49+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in E:\xampp\htdocs\u1\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\product-categories.asset.php on line 1
+
+2021-04-22T11:52:02+00:00 CRITICAL syntax error, unexpected end of file in E:\xampp\htdocs\u1\wp-content\themes\saasland\header.php on line 116
+

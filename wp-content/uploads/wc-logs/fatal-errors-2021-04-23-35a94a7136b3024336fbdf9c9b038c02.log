@@ -1,0 +1,6 @@
+2021-04-23T06:02:42+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in E:\xampp\htdocs\u1\wp-content\plugins\woocommerce\includes\class-wc-autoloader.php on line 53
+
+2021-04-23T06:02:54+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in E:\xampp\htdocs\u1\wp-includes\Requests\Transport\cURL.php on line 441
+
+2021-04-23T10:59:54+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in E:\xampp\htdocs\u1\wp-admin\includes\file.php on line 88
+

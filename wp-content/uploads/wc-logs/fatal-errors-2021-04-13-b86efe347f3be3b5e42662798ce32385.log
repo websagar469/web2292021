@@ -1,0 +1,33 @@
+2021-04-13T07:50:19+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in E:\xampp\htdocs\demo\wp-content\plugins\elementor\core\base\base-object.php on line 109
+
+2021-04-13T11:37:05+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in E:\xampp\htdocs\demo\wp-includes\Requests\Transport\cURL.php on line 463
+
+2021-04-13T12:49:48+00:00 CRITICAL Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in E:\xampp\htdocs\demo\wp-content\plugins\display-posts-shortcode\display-posts-shortcode.php:594
+Stack trace:
+#0 E:\xampp\htdocs\demo\wp-content\plugins\display-posts-shortcode\display-posts-shortcode.php(594): implode(Array, ',')
+#1 E:\xampp\htdocs\demo\wp-includes\shortcodes.php(343): be_display_posts_shortcode(Array, '', 'display-posts')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 E:\xampp\htdocs\demo\wp-includes\shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(displa...', 'do_shortcode_ta...', '<p>[display-pos...')
+#4 E:\xampp\htdocs\demo\wp-content\plugins\essential-addons-for-elementor-lite\includes\Elements\Adv_Tabs.php(913): do_shortcode('<p>[display-pos...')
+#5 E:\xampp\htdocs\demo\wp-content\plugins\elementor\includes\base\controls-stack.php(1892): Essential_Addons_Elementor\Elements\Adv_Tabs->render()
+#6 E:\xampp\htdocs\demo\wp-content\plugins\elementor\includes\base\widget-base.php(549): Elementor\Controls_Stack->render_by_mode()
+#7 E:\xampp\htdocs\demo\wp-content\plugins\elementor\includes\base\widget-base.php(679): Elementor\Widget_Base->render_content()
+#8 E:\xampp\htdocs\demo\wp-content\plugins\elementor\includes\base\element-base.php(650): Elementor\Widget_Base->print_content()
+#9 E:\xampp\htdocs\demo\wp-content\plugins\elementor\includes\base\element-base.php(911): Elementor\Element_Base->print_element()
+#10 E:\xampp\htdocs\demo\wp-content\plugins\elementor\includes\base\element-base.php(650): Elementor\Element_Base->print_content()
+#11 E:\xampp\htdocs\demo\wp-content\plugins\elementor\includes\base\element-base.php(911): Elementor\Element_Base->print_element()
+#12 E:\xampp\htdocs\demo\wp-content\plugins\elementor\includes\base\element-base.php(650): Elementor\Element_Base->print_content()
+#13 E:\xampp\htdocs\demo\wp-content\plugins\elementor\core\base\document.php(1296): Elementor\Element_Base->print_element()
+#14 E:\xampp\htdocs\demo\wp-content\plugins\elementor\core\base\document.php(933): Elementor\Core\Base\Document->print_elements(Array)
+#15 E:\xampp\htdocs\demo\wp-content\plugins\elementor\includes\frontend.php(982): Elementor\Core\Base\Document->print_elements_with_wrapper(Array)
+#16 E:\xampp\htdocs\demo\wp-content\plugins\elementor\includes\frontend.php(896): Elementor\Frontend->get_builder_content(15229)
+#17 E:\xampp\htdocs\demo\wp-includes\class-wp-hook.php(292): Elementor\Frontend->apply_builder_in_content('<h1>Portfolio</...')
+#18 E:\xampp\htdocs\demo\wp-includes\plugin.php(212): WP_Hook->apply_filters('<h1>Portfolio</...', Array)
+#19 E:\xampp\htdocs\demo\wp-includes\post-template.php(253): apply_filters('the_content', '<h1>Portfolio</...')
+#20 E:\xampp\htdocs\demo\wp-content\themes\saasland\page.php(44): the_content()
+#21 E:\xampp\htdocs\demo\wp-includes\template-loader.php(106): include('E:\\xampp\\htdocs...')
+#22 E:\xampp\htdocs\demo\wp-blog-header.php(19): require_once('E:\\xampp\\htdocs...')
+#23 E:\xampp\htdocs\demo\index.php(17): require('E:\\xampp\\htdocs...')
+#24 {main}
+  thrown in E:\xampp\htdocs\demo\wp-content\plugins\display-posts-shortcode\display-posts-shortcode.php on line 594
+

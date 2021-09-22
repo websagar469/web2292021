@@ -1,0 +1,54 @@
+2021-03-04T07:28:42+00:00 CRITICAL Uncaught Error: Call to a member function save_template_type() on boolean in /home/jbtechnocare/public_html/wlcglobal/wp-content/plugins/elementor/core/base/document.php:446
+Stack trace:
+#0 /home/jbtechnocare/public_html/wlcglobal/wp-content/plugins/elementor/core/documents-manager.php(497): Elementor\Core\Base\Document->get_autosave(1, true)
+#1 [internal function]: Elementor\Core\Documents_Manager->ajax_save(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#2 /home/jbtechnocare/public_html/wlcglobal/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#3 /home/jbtechnocare/public_html/wlcglobal/wp-includes/class-wp-hook.php(287): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#4 /home/jbtechnocare/public_html/wlcglobal/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#5 /home/jbtechnocare/public_html/wlcglobal/wp-includes/plugin.php(484): WP_Hook->do_action(Array in /home/jbtechnocare/public_html/wlcglobal/wp-content/plugins/elementor/core/base/document.php on line 446
+
+2021-03-04T07:34:23+00:00 CRITICAL Uncaught Error: Call to a member function save_template_type() on boolean in /home/jbtechnocare/public_html/wlcglobal/wp-content/plugins/elementor/core/base/document.php:446
+Stack trace:
+#0 /home/jbtechnocare/public_html/wlcglobal/wp-content/plugins/elementor/core/documents-manager.php(497): Elementor\Core\Base\Document->get_autosave(1, true)
+#1 [internal function]: Elementor\Core\Documents_Manager->ajax_save(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#2 /home/jbtechnocare/public_html/wlcglobal/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#3 /home/jbtechnocare/public_html/wlcglobal/wp-includes/class-wp-hook.php(287): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#4 /home/jbtechnocare/public_html/wlcglobal/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#5 /home/jbtechnocare/public_html/wlcglobal/wp-includes/plugin.php(484): WP_Hook->do_action(Array in /home/jbtechnocare/public_html/wlcglobal/wp-content/plugins/elementor/core/base/document.php on line 446
+
+2021-03-04T07:34:24+00:00 CRITICAL Uncaught Error: Call to a member function save_template_type() on boolean in /home/jbtechnocare/public_html/wlcglobal/wp-content/plugins/elementor/core/base/document.php:446
+Stack trace:
+#0 /home/jbtechnocare/public_html/wlcglobal/wp-content/plugins/elementor/core/documents-manager.php(497): Elementor\Core\Base\Document->get_autosave(1, true)
+#1 [internal function]: Elementor\Core\Documents_Manager->ajax_save(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#2 /home/jbtechnocare/public_html/wlcglobal/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#3 /home/jbtechnocare/public_html/wlcglobal/wp-includes/class-wp-hook.php(287): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#4 /home/jbtechnocare/public_html/wlcglobal/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#5 /home/jbtechnocare/public_html/wlcglobal/wp-includes/plugin.php(484): WP_Hook->do_action(Array in /home/jbtechnocare/public_html/wlcglobal/wp-content/plugins/elementor/core/base/document.php on line 446
+
+2021-03-04T07:34:29+00:00 CRITICAL Uncaught Error: Call to a member function save_template_type() on boolean in /home/jbtechnocare/public_html/wlcglobal/wp-content/plugins/elementor/core/base/document.php:446
+Stack trace:
+#0 /home/jbtechnocare/public_html/wlcglobal/wp-content/plugins/elementor/core/documents-manager.php(497): Elementor\Core\Base\Document->get_autosave(1, true)
+#1 [internal function]: Elementor\Core\Documents_Manager->ajax_save(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#2 /home/jbtechnocare/public_html/wlcglobal/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#3 /home/jbtechnocare/public_html/wlcglobal/wp-includes/class-wp-hook.php(287): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#4 /home/jbtechnocare/public_html/wlcglobal/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#5 /home/jbtechnocare/public_html/wlcglobal/wp-includes/plugin.php(484): WP_Hook->do_action(Array in /home/jbtechnocare/public_html/wlcglobal/wp-content/plugins/elementor/core/base/document.php on line 446
+
+2021-03-04T07:34:32+00:00 CRITICAL Uncaught Error: Call to a member function save_template_type() on boolean in /home/jbtechnocare/public_html/wlcglobal/wp-content/plugins/elementor/core/base/document.php:446
+Stack trace:
+#0 /home/jbtechnocare/public_html/wlcglobal/wp-content/plugins/elementor/core/documents-manager.php(497): Elementor\Core\Base\Document->get_autosave(1, true)
+#1 [internal function]: Elementor\Core\Documents_Manager->ajax_save(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#2 /home/jbtechnocare/public_html/wlcglobal/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#3 /home/jbtechnocare/public_html/wlcglobal/wp-includes/class-wp-hook.php(287): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#4 /home/jbtechnocare/public_html/wlcglobal/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#5 /home/jbtechnocare/public_html/wlcglobal/wp-includes/plugin.php(484): WP_Hook->do_action(Array in /home/jbtechnocare/public_html/wlcglobal/wp-content/plugins/elementor/core/base/document.php on line 446
+
+2021-03-04T07:35:17+00:00 CRITICAL Uncaught Error: Call to a member function save_template_type() on boolean in /home/jbtechnocare/public_html/wlcglobal/wp-content/plugins/elementor/core/base/document.php:446
+Stack trace:
+#0 /home/jbtechnocare/public_html/wlcglobal/wp-content/plugins/elementor/core/documents-manager.php(497): Elementor\Core\Base\Document->get_autosave(1, true)
+#1 [internal function]: Elementor\Core\Documents_Manager->ajax_save(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#2 /home/jbtechnocare/public_html/wlcglobal/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#3 /home/jbtechnocare/public_html/wlcglobal/wp-includes/class-wp-hook.php(287): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#4 /home/jbtechnocare/public_html/wlcglobal/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#5 /home/jbtechnocare/public_html/wlcglobal/wp-includes/plugin.php(484): WP_Hook->do_action(Array in /home/jbtechnocare/public_html/wlcglobal/wp-content/plugins/elementor/core/base/document.php on line 446
+
